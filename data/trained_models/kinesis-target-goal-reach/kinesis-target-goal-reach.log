@@ -1,0 +1,13 @@
+[2026-01-04 19:53:59,666][src.agents.agent_pointgoal][INFO] - PointGoal environment initialized.
+[2026-01-04 19:54:03,191][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-04 19:54:03,191][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-04 19:54:03,191][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-04 19:54:03,289][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-target-goal-reach/model.pth
+[2026-01-04 19:54:03,290][src.agents.agent_pointgoal][INFO] - Starting policy evaluation on target goal reaching.
+[2026-01-04 19:55:19,345][src.agents.agent_pointgoal][INFO] - PointGoal environment initialized.
+[2026-01-04 19:55:19,844][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-04 19:55:19,844][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-04 19:55:19,844][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-04 19:55:19,916][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-target-goal-reach/model.pth
+[2026-01-04 19:55:19,917][src.agents.agent_pointgoal][INFO] - Starting policy evaluation on target goal reaching.
+[2026-01-04 19:57:17,023][src.agents.agent_pointgoal][INFO] - Policy evaluation success rate: 0.89

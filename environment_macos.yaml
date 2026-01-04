@@ -1,0 +1,11 @@
+name: kinesis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - lxml
+  - pytorch::pytorch=1.13.1
+  - pip
+  - pip:
+    - -r requirements.txt

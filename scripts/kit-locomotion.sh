@@ -36,7 +36,7 @@ else
 fi
 
 # Run the script
-python src/run.py exp_name=kinesis-moe-imitation \
+mjpython src/run.py exp_name=kinesis-moe-imitation \
     epoch=-1 \
     run=eval_run \
     run.headless=${headless} \

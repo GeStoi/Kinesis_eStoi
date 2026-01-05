@@ -1,14 +1,10 @@
 from ast import Try
 import torch
 import joblib
-import matplotlib.pyplot as plt
 import numpy as np
-from scipy import ndimage
 from scipy.spatial.transform import Rotation as sRot
-import glob
 import os
 import sys
-import pdb
 import os.path as osp
 
 sys.path.append(os.getcwd())
@@ -16,7 +12,6 @@ sys.path.append(os.getcwd())
 from src.smpl.smpl_parser import SMPL_BONE_ORDER_NAMES as joint_names
 from src.utils.smpl_skeleton.smpl_local_robot import SMPL_Robot as LocalRobot
 import scipy.ndimage.filters as filters
-from typing import List, Optional
 from tqdm import tqdm
 from poselib.poselib.skeleton.skeleton3d import SkeletonTree, SkeletonState
 
@@ -88,8 +83,6 @@ amass_full_motion_dict = {}
 for key_name in tqdm(amass_data.keys()):
     key_name_dump = key_name
     smpl_data_entry = amass_data[key_name]
-    file_name = f"data/amass/singles/{key_name}.npy"
-    B = smpl_data_entry['pose_aa'].shape[0]
 
     pose_aa = smpl_data_entry['pose_aa'].copy()
     root_trans = smpl_data_entry['trans'].copy()
@@ -114,8 +107,6 @@ for key_name in tqdm(amass_data.keys()):
     elif gender == "female":
         gender_number = [2]
     else:
-        import ipdb
-        ipdb.set_trace()
         raise Exception("Gender Not Supported!!")
 
     smpl_2_mujoco = [joint_names.index(q) for q in mujoco_joint_names if q in joint_names]

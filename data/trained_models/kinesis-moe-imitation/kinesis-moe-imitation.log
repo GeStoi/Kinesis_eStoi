@@ -107,3 +107,56 @@
 [2026-01-05 14:41:30,724][src.agents.agent_im][INFO] - Run 9: Success on attempt 1. MPJPE: 46.02257, Frame Coverage: 100.00000
 [2026-01-05 14:41:34,987][src.agents.agent_im][INFO] - Run 10: Success on attempt 1. MPJPE: 45.44282, Frame Coverage: 100.00000
 [2026-01-05 14:41:38,275][src.agents.agent_im][INFO] - Run 11: Success on attempt 1. MPJPE: 44.83183, Frame Coverage: 100.00000
+[2026-01-05 19:41:30,858][src.agents.agent_im][INFO] - MyoLegsIm environment initialized.
+[2026-01-05 19:41:34,519][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-05 19:41:34,519][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-05 19:41:34,520][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-05 19:41:34,621][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-moe-imitation/model.pth
+[2026-01-05 19:41:34,622][src.agents.agent_im][INFO] - Starting policy evaluation.
+[2026-01-05 19:41:39,883][src.agents.agent_im][INFO] - Run 0: Success on attempt 1. MPJPE: 50.45078, Frame Coverage: 100.00000
+[2026-01-05 19:41:44,479][src.agents.agent_im][INFO] - Run 1: Success on attempt 1. MPJPE: 45.72094, Frame Coverage: 100.00000
+[2026-01-05 19:41:49,122][src.agents.agent_im][INFO] - Run 2: Success on attempt 1. MPJPE: 43.38436, Frame Coverage: 100.00000
+[2026-01-05 19:41:53,777][src.agents.agent_im][INFO] - Run 3: Success on attempt 1. MPJPE: 44.58135, Frame Coverage: 100.00000
+[2026-01-05 19:41:57,798][src.agents.agent_im][INFO] - Run 4: Success on attempt 1. MPJPE: 44.70352, Frame Coverage: 100.00000
+[2026-01-05 19:42:01,359][src.agents.agent_im][INFO] - Run 5: Failure on attempt 1. MPJPE: 48.34466, Frame Coverage: 73.25582
+[2026-01-05 19:42:05,112][src.agents.agent_im][INFO] - Run 6: Success on attempt 1. MPJPE: 48.00390, Frame Coverage: 100.00000
+[2026-01-05 19:42:08,981][src.agents.agent_im][INFO] - Run 7: Success on attempt 1. MPJPE: 47.08383, Frame Coverage: 100.00000
+[2026-01-05 19:42:12,680][src.agents.agent_im][INFO] - Run 8: Success on attempt 1. MPJPE: 46.56950, Frame Coverage: 100.00000
+[2026-01-05 19:42:16,429][src.agents.agent_im][INFO] - Run 9: Success on attempt 1. MPJPE: 46.02257, Frame Coverage: 100.00000
+[2026-01-05 19:42:21,437][src.agents.agent_im][INFO] - Run 10: Success on attempt 1. MPJPE: 45.44282, Frame Coverage: 100.00000
+[2026-01-05 19:42:25,368][src.agents.agent_im][INFO] - Run 11: Success on attempt 1. MPJPE: 44.83183, Frame Coverage: 100.00000
+[2026-01-05 19:42:29,960][src.agents.agent_im][INFO] - Run 12: Success on attempt 1. MPJPE: 44.20187, Frame Coverage: 100.00000
+[2026-01-05 19:42:33,954][src.agents.agent_im][INFO] - Run 13: Success on attempt 1. MPJPE: 43.63629, Frame Coverage: 100.00000
+[2026-01-05 19:42:37,547][src.agents.agent_im][INFO] - Run 14: Success on attempt 1. MPJPE: 43.59573, Frame Coverage: 100.00000
+[2026-01-05 19:42:41,563][src.agents.agent_im][INFO] - Run 15: Success on attempt 1. MPJPE: 43.15873, Frame Coverage: 100.00000
+[2026-01-05 19:42:45,420][src.agents.agent_im][INFO] - Run 16: Success on attempt 1. MPJPE: 43.16622, Frame Coverage: 100.00000
+[2026-01-05 19:42:49,080][src.agents.agent_im][INFO] - Run 17: Failure on attempt 1. MPJPE: 44.79484, Frame Coverage: 69.68085
+[2026-01-05 19:42:53,167][src.agents.agent_im][INFO] - Run 18: Success on attempt 1. MPJPE: 45.05852, Frame Coverage: 100.00000
+[2026-01-05 19:42:56,881][src.agents.agent_im][INFO] - Run 19: Success on attempt 1. MPJPE: 44.83649, Frame Coverage: 100.00000
+[2026-01-05 19:43:00,638][src.agents.agent_im][INFO] - Run 20: Success on attempt 1. MPJPE: 45.00080, Frame Coverage: 100.00000
+[2026-01-05 19:43:04,495][src.agents.agent_im][INFO] - Run 21: Success on attempt 1. MPJPE: 45.09300, Frame Coverage: 100.00000
+[2026-01-05 19:43:08,803][src.agents.agent_im][INFO] - Run 22: Success on attempt 1. MPJPE: 45.21476, Frame Coverage: 100.00000
+[2026-01-05 19:43:13,589][src.agents.agent_im][INFO] - Run 23: Success on attempt 1. MPJPE: 45.26724, Frame Coverage: 100.00000
+[2026-01-05 19:43:17,306][src.agents.agent_im][INFO] - Run 24: Success on attempt 1. MPJPE: 45.25320, Frame Coverage: 100.00000
+[2026-01-05 19:43:21,947][src.agents.agent_im][INFO] - Run 25: Success on attempt 1. MPJPE: 45.38280, Frame Coverage: 100.00000
+[2026-01-05 19:43:26,320][src.agents.agent_im][INFO] - Run 26: Success on attempt 1. MPJPE: 45.18458, Frame Coverage: 100.00000
+[2026-01-05 19:43:29,908][src.agents.agent_im][INFO] - Run 27: Failure on attempt 1. MPJPE: 45.81556, Frame Coverage: 53.21429
+[2026-01-05 19:43:34,017][src.agents.agent_im][INFO] - Run 28: Success on attempt 1. MPJPE: 45.55354, Frame Coverage: 100.00000
+[2026-01-05 19:43:37,896][src.agents.agent_im][INFO] - Run 29: Success on attempt 1. MPJPE: 45.32706, Frame Coverage: 100.00000
+[2026-01-05 19:43:41,304][src.agents.agent_im][INFO] - Run 30: Success on attempt 1. MPJPE: 45.37541, Frame Coverage: 100.00000
+[2026-01-05 19:43:45,264][src.agents.agent_im][INFO] - Run 31: Success on attempt 1. MPJPE: 45.91065, Frame Coverage: 100.00000
+[2026-01-05 19:43:49,273][src.agents.agent_im][INFO] - Run 32: Success on attempt 1. MPJPE: 45.93570, Frame Coverage: 100.00000
+[2026-01-05 19:43:53,780][src.agents.agent_im][INFO] - Run 33: Success on attempt 1. MPJPE: 45.78201, Frame Coverage: 100.00000
+[2026-01-05 19:43:57,671][src.agents.agent_im][INFO] - Run 34: Success on attempt 1. MPJPE: 45.51866, Frame Coverage: 100.00000
+[2026-01-05 19:44:02,274][src.agents.agent_im][INFO] - Run 35: Success on attempt 1. MPJPE: 45.65437, Frame Coverage: 100.00000
+[2026-01-05 19:44:06,653][src.agents.agent_im][INFO] - Run 36: Success on attempt 1. MPJPE: 45.44497, Frame Coverage: 100.00000
+[2026-01-05 19:44:11,457][src.agents.agent_im][INFO] - Run 37: Success on attempt 1. MPJPE: 45.62906, Frame Coverage: 100.00000
+[2026-01-05 19:44:15,788][src.agents.agent_im][INFO] - Run 38: Success on attempt 1. MPJPE: 45.64160, Frame Coverage: 100.00000
+[2026-01-05 19:44:19,477][src.agents.agent_im][INFO] - Run 39: Success on attempt 1. MPJPE: 45.70325, Frame Coverage: 100.00000
+[2026-01-05 19:44:23,449][src.agents.agent_im][INFO] - Run 40: Success on attempt 1. MPJPE: 45.58106, Frame Coverage: 100.00000
+[2026-01-05 19:44:27,538][src.agents.agent_im][INFO] - Run 41: Success on attempt 1. MPJPE: 45.65788, Frame Coverage: 100.00000
+[2026-01-05 19:44:31,424][src.agents.agent_im][INFO] - Run 42: Failure on attempt 1. MPJPE: 46.68121, Frame Coverage: 53.26087
+[2026-01-05 19:44:35,870][src.agents.agent_im][INFO] - Run 43: Success on attempt 1. MPJPE: 46.55901, Frame Coverage: 100.00000
+[2026-01-05 19:44:39,890][src.agents.agent_im][INFO] - Run 44: Success on attempt 1. MPJPE: 46.42742, Frame Coverage: 100.00000
+[2026-01-05 19:44:43,684][src.agents.agent_im][INFO] - Run 45: Success on attempt 1. MPJPE: 46.30632, Frame Coverage: 100.00000
+[2026-01-05 19:44:46,449][src.agents.agent_im][INFO] - Run 46: Failure on attempt 1. MPJPE: 47.01296, Frame Coverage: 58.85417

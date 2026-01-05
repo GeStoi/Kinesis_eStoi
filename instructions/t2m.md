@@ -27,7 +27,7 @@
 3. **Download the pre-trained model**:
     [Download link](https://drive.google.com/file/d/1cfadR1eZ116TIdXK7qDX1RugAerEiJXr/view)
     
-    Unzip the folder and place the files `model000750000.pth` and `args.json` in a folder named `faster_save` in the root of the repository.
+    Unzip the folder and place the files `model000750000.pt` and `args.json` in a folder named `faster_save` in the root of the repository.
     ```bash
     mkdir faster_save
     ```
@@ -50,7 +50,7 @@
 
 5. **Move to the Kinesis repository and generate the imitation-compatible .pkl file**:
     ```bash
-    python utils/convert_data_mdm.py --input_path generated_motions/MOTION_NAME.pkl --output_dir data/t2m
+    python src/utils/convert_mdm.py --input_path generated_motions/MOTION_NAME.pkl --output_dir data/t2m
     ```
 
 6. **Run the model**:

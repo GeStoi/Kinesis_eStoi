@@ -11,11 +11,23 @@
 
 ## 1. 环境构建 (Build)
 
+首先要下载补齐忽略的数据集和模型文件：
+data/kit_train_motion_dict.pkl
+data/smpl/SMPL_NEUTRAL.pkl
+data/trained_models/kinesis-moe-imitation/model.pth
+data/trained_models/kinesis-target-goal-reach/model.pth
+
+
 在项目根目录下，使用更新后的 Dockerfile 构建镜像。
 > **注意**：Dockerfile 已更新适配 RTX 50 系列显卡 (CUDA 12.4) 和 PyOpenGL 3.1.7修复。
+```bash
+# 拉取 v1 版本镜像
+docker pull gestoi/kinesis_estoi:v1
+
+```
 
 ```bash
-# 构建镜像并标记为 local
+# 本地构建镜像并标记为 local
 docker build -t gestoi/kinesis_estoi:local .
 
 ```

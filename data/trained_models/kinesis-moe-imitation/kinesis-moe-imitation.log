@@ -49,3 +49,61 @@
 [2026-01-04 20:00:36,885][src.agents.agent_im][INFO] - Run 42: Failure on attempt 1. MPJPE: 46.68121, Frame Coverage: 53.26087
 [2026-01-04 20:00:40,530][src.agents.agent_im][INFO] - Run 43: Success on attempt 1. MPJPE: 46.55901, Frame Coverage: 100.00000
 [2026-01-04 20:00:43,942][src.agents.agent_im][INFO] - Run 44: Success on attempt 1. MPJPE: 46.42742, Frame Coverage: 100.00000
+[2026-01-05 09:28:25,735][src.agents.agent_im][INFO] - MyoLegsIm environment initialized.
+[2026-01-05 09:28:29,582][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-05 09:28:29,582][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-05 09:28:29,582][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-05 09:28:29,691][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-moe-imitation/model.pth
+[2026-01-05 09:28:29,691][src.agents.agent_im][INFO] - Starting policy evaluation.
+[2026-01-05 09:28:35,010][src.agents.agent_im][INFO] - Run 0: Success on attempt 1. MPJPE: 50.45078, Frame Coverage: 100.00000
+[2026-01-05 09:28:39,502][src.agents.agent_im][INFO] - Run 1: Success on attempt 1. MPJPE: 45.72094, Frame Coverage: 100.00000
+[2026-01-05 09:28:43,965][src.agents.agent_im][INFO] - Run 2: Success on attempt 1. MPJPE: 43.38436, Frame Coverage: 100.00000
+[2026-01-05 09:28:48,510][src.agents.agent_im][INFO] - Run 3: Success on attempt 1. MPJPE: 44.58135, Frame Coverage: 100.00000
+[2026-01-05 09:28:52,511][src.agents.agent_im][INFO] - Run 4: Success on attempt 1. MPJPE: 44.70352, Frame Coverage: 100.00000
+[2026-01-05 09:28:55,941][src.agents.agent_im][INFO] - Run 5: Failure on attempt 1. MPJPE: 48.34466, Frame Coverage: 73.25582
+[2026-01-05 09:28:59,727][src.agents.agent_im][INFO] - Run 6: Success on attempt 1. MPJPE: 48.00390, Frame Coverage: 100.00000
+[2026-01-05 09:29:03,507][src.agents.agent_im][INFO] - Run 7: Success on attempt 1. MPJPE: 47.08383, Frame Coverage: 100.00000
+[2026-01-05 09:29:07,265][src.agents.agent_im][INFO] - Run 8: Success on attempt 1. MPJPE: 46.56950, Frame Coverage: 100.00000
+[2026-01-05 09:29:11,130][src.agents.agent_im][INFO] - Run 9: Success on attempt 1. MPJPE: 46.02257, Frame Coverage: 100.00000
+[2026-01-05 09:29:16,340][src.agents.agent_im][INFO] - Run 10: Success on attempt 1. MPJPE: 45.44282, Frame Coverage: 100.00000
+[2026-01-05 09:29:19,568][src.agents.agent_im][INFO] - Run 11: Success on attempt 1. MPJPE: 44.83183, Frame Coverage: 100.00000
+[2026-01-05 10:12:02,725][src.agents.agent_im][INFO] - MyoLegsIm environment initialized.
+[2026-01-05 10:12:05,787][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-05 10:12:05,787][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-05 10:12:05,787][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-05 10:12:05,906][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-moe-imitation/model.pth
+[2026-01-05 10:12:05,907][src.agents.agent_im][INFO] - Starting policy evaluation.
+[2026-01-05 10:12:11,783][src.agents.agent_im][INFO] - Run 0: Success on attempt 1. MPJPE: 50.45078, Frame Coverage: 100.00000
+[2026-01-05 10:12:16,543][src.agents.agent_im][INFO] - Run 1: Success on attempt 1. MPJPE: 45.72094, Frame Coverage: 100.00000
+[2026-01-05 10:12:21,030][src.agents.agent_im][INFO] - Run 2: Success on attempt 1. MPJPE: 43.38436, Frame Coverage: 100.00000
+[2026-01-05 10:12:25,627][src.agents.agent_im][INFO] - Run 3: Success on attempt 1. MPJPE: 44.58135, Frame Coverage: 100.00000
+[2026-01-05 10:12:29,740][src.agents.agent_im][INFO] - Run 4: Success on attempt 1. MPJPE: 44.70352, Frame Coverage: 100.00000
+[2026-01-05 10:12:33,288][src.agents.agent_im][INFO] - Run 5: Failure on attempt 1. MPJPE: 48.34466, Frame Coverage: 73.25582
+[2026-01-05 10:12:37,060][src.agents.agent_im][INFO] - Run 6: Success on attempt 1. MPJPE: 48.00390, Frame Coverage: 100.00000
+[2026-01-05 10:12:40,993][src.agents.agent_im][INFO] - Run 7: Success on attempt 1. MPJPE: 47.08383, Frame Coverage: 100.00000
+[2026-01-05 10:12:44,724][src.agents.agent_im][INFO] - Run 8: Success on attempt 1. MPJPE: 46.56950, Frame Coverage: 100.00000
+[2026-01-05 10:12:48,569][src.agents.agent_im][INFO] - Run 9: Success on attempt 1. MPJPE: 46.02257, Frame Coverage: 100.00000
+[2026-01-05 10:12:53,689][src.agents.agent_im][INFO] - Run 10: Success on attempt 1. MPJPE: 45.44282, Frame Coverage: 100.00000
+[2026-01-05 10:12:57,646][src.agents.agent_im][INFO] - Run 11: Success on attempt 1. MPJPE: 44.83183, Frame Coverage: 100.00000
+[2026-01-05 10:13:02,222][src.agents.agent_im][INFO] - Run 12: Success on attempt 1. MPJPE: 44.20187, Frame Coverage: 100.00000
+[2026-01-05 10:13:06,072][src.agents.agent_im][INFO] - Run 13: Success on attempt 1. MPJPE: 43.63629, Frame Coverage: 100.00000
+[2026-01-05 10:13:09,794][src.agents.agent_im][INFO] - Run 14: Success on attempt 1. MPJPE: 43.59573, Frame Coverage: 100.00000
+[2026-01-05 10:13:13,901][src.agents.agent_im][INFO] - Run 15: Success on attempt 1. MPJPE: 43.15873, Frame Coverage: 100.00000
+[2026-01-05 14:40:44,592][src.agents.agent_im][INFO] - MyoLegsIm environment initialized.
+[2026-01-05 14:40:48,255][src.agents.agent_humanoid][INFO] - ==========================Agent Parameters===========================
+[2026-01-05 14:40:48,255][src.agents.agent_humanoid][INFO] - State_dim: 309
+[2026-01-05 14:40:48,255][src.agents.agent_humanoid][INFO] - ============================================================
+[2026-01-05 14:40:48,378][src.agents.agent_humanoid][INFO] - Loaded latest checkpoint from /Users/user/Coder/Kinesis_eStoi/data/trained_models/kinesis-moe-imitation/model.pth
+[2026-01-05 14:40:48,379][src.agents.agent_im][INFO] - Starting policy evaluation.
+[2026-01-05 14:40:54,215][src.agents.agent_im][INFO] - Run 0: Success on attempt 1. MPJPE: 50.45078, Frame Coverage: 100.00000
+[2026-01-05 14:40:58,803][src.agents.agent_im][INFO] - Run 1: Success on attempt 1. MPJPE: 45.72094, Frame Coverage: 100.00000
+[2026-01-05 14:41:03,310][src.agents.agent_im][INFO] - Run 2: Success on attempt 1. MPJPE: 43.38436, Frame Coverage: 100.00000
+[2026-01-05 14:41:07,990][src.agents.agent_im][INFO] - Run 3: Success on attempt 1. MPJPE: 44.58135, Frame Coverage: 100.00000
+[2026-01-05 14:41:12,084][src.agents.agent_im][INFO] - Run 4: Success on attempt 1. MPJPE: 44.70352, Frame Coverage: 100.00000
+[2026-01-05 14:41:15,620][src.agents.agent_im][INFO] - Run 5: Failure on attempt 1. MPJPE: 48.34466, Frame Coverage: 73.25582
+[2026-01-05 14:41:19,388][src.agents.agent_im][INFO] - Run 6: Success on attempt 1. MPJPE: 48.00390, Frame Coverage: 100.00000
+[2026-01-05 14:41:23,259][src.agents.agent_im][INFO] - Run 7: Success on attempt 1. MPJPE: 47.08383, Frame Coverage: 100.00000
+[2026-01-05 14:41:26,960][src.agents.agent_im][INFO] - Run 8: Success on attempt 1. MPJPE: 46.56950, Frame Coverage: 100.00000
+[2026-01-05 14:41:30,724][src.agents.agent_im][INFO] - Run 9: Success on attempt 1. MPJPE: 46.02257, Frame Coverage: 100.00000
+[2026-01-05 14:41:34,987][src.agents.agent_im][INFO] - Run 10: Success on attempt 1. MPJPE: 45.44282, Frame Coverage: 100.00000
+[2026-01-05 14:41:38,275][src.agents.agent_im][INFO] - Run 11: Success on attempt 1. MPJPE: 44.83183, Frame Coverage: 100.00000

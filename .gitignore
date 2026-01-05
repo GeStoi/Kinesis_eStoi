@@ -1,0 +1,5 @@
+# 忽略大数据集和模型
+data/kit_train_motion_dict.pkl
+data/smpl/SMPL_NEUTRAL.pkl
+data/trained_models/kinesis-moe-imitation/model.pth
+data/trained_models/kinesis-target-goal-reach/model.pth

@@ -1,10 +1,9 @@
-这里是为你准备的 `QuickStart.md`。我已经将其结构化，重点突出了针对 **Mac 开发 + Linux 部署** 混合工作流的特殊指令（特别是 `mjpython` 兼容和 `xvfb` 渲染）。
 
-你可以直接将以下内容复制并保存为项目根目录下的 `QuickStart.md`。
 
 ---
 
 ```markdown
+2026-01-05 20:47:44
 # Kinesis eStoi QuickStart Guide
 
 本指南用于指导在 Ubuntu/Linux 服务器（配备 NVIDIA GPU）上构建和运行开发环境。

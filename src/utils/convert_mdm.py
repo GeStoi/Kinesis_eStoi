@@ -18,7 +18,7 @@ from src.utils.smpl_skeleton.smpl_local_robot import SMPL_Robot as LocalRobot
 import scipy.ndimage.filters as filters
 from typing import List, Optional
 from tqdm import tqdm
-from poselib.poselib.skeleton.skeleton3d import SkeletonTree, SkeletonMotion, SkeletonState
+from poselib.poselib.skeleton.skeleton3d import SkeletonTree, SkeletonState
 
 import argparse
 
